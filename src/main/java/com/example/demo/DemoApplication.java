@@ -15,7 +15,7 @@ public class DemoApplication {
 	
 	@GetMapping("/greeting")
 	public String optput() {
-		return "Hi Jenkins";
+		return "Hi Jenkins how are you";
 	}
 
 }
